@@ -15,13 +15,13 @@ Install [Tampermonkey](http://tampermonkey.net/).
 # Screenshots
 
 ## LG
-[![LG](https://raw.githubusercontent.com/KevinBon/tampermonkey--bootstrap-responsivehelper/master/screenshots/lg.png)]
+![LG](https://raw.githubusercontent.com/KevinBon/tampermonkey--bootstrap-responsivehelper/master/screenshots/lg.png)
 
 ## MD
-[![MD](https://raw.githubusercontent.com/KevinBon/tampermonkey--bootstrap-responsivehelper/master/screenshots/md.png)]
+![MD](https://raw.githubusercontent.com/KevinBon/tampermonkey--bootstrap-responsivehelper/master/screenshots/md.png)
 
 ## SM
-[![SM](https://raw.githubusercontent.com/KevinBon/tampermonkey--bootstrap-responsivehelper/master/screenshots/sm.png)]
+![SM](https://raw.githubusercontent.com/KevinBon/tampermonkey--bootstrap-responsivehelper/master/screenshots/sm.png)
 
 ## XS
-[![XS](https://raw.githubusercontent.com/KevinBon/tampermonkey--bootstrap-responsivehelper/master/screenshots/xs.png)]
+![XS](https://raw.githubusercontent.com/KevinBon/tampermonkey--bootstrap-responsivehelper/master/screenshots/xs.png)
